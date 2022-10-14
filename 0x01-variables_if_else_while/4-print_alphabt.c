@@ -14,11 +14,13 @@ int n = 0;
 
 while (n <= 25)
 {
+
 if (a != 'q' && a != 'e')
-{
 
 {
+
 putchar(a);
+
 }
 
 a++;
