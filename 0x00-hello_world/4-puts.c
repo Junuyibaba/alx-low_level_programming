@@ -2,9 +2,9 @@
 
 
 /**
- *main is the start of code
+ *main - start of code
  *
- *return (0) ends the code
+ *return (0) - ends the code
  */
 
 int main(void)
