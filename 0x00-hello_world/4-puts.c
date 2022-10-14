@@ -7,7 +7,7 @@
  *return (0) - ends the code
  */
 
-int main(void)
+int main(void) /*start code*/
 {
 puts("\"Programming is like building a multilingual puzzle");
 return (0);
