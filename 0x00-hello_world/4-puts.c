@@ -2,9 +2,9 @@
 
 
 /**
- *Use put instead of printf
+ *main is the start of code
  *
- *return zero ends the code
+ *return (0) ends the code
  */
 
 int main(void)
