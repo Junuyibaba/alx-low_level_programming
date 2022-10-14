@@ -30,7 +30,9 @@ putchar(a);
 
 a++;
 
-} else
+}
+
+else
 
 {
 
