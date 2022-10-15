@@ -1,17 +1,17 @@
 #include <stdio.h>
 /**
-*Main - Program entry point
+ *main - Program entry point
 *
 *Return: 0 on success. Error code otherwise
 */
 
 int main(void)
 {
-int n = o;
+int n = 0;
 
 while (n < 10)
 {
-putchar(n + "0");
+putchar(n + '0');
 n++;
 }
 
