@@ -1,24 +1,22 @@
 #include "main.h"
 
 /**
-* main - check the code
+* main - cA program that prints _putchar followed by a new line.
 *
-* Return: Always 0.
+* Return: (0) on success. Error code otherwise.
 */
 
 int main(void)
 {
+_putchar('_');
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('c');
+_putchar('h');
+_putchar('a');
+_putchar('r');
+_putchar('\n');
 
-int num, i;
- for (num = 0; num <= 9; num++)
-{
-for (i = 'a'; i <= 'z', i++)
-{
-  _putchar(i);
-}
-
- _putchar('\n');
-}
-
-return (0)
+return (0);
 }
