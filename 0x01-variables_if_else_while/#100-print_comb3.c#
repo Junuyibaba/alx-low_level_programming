@@ -7,15 +7,15 @@
 
 int main(void)
 {
-  int n = 0;
-  int i;
+int n = 0;
+int i;
 
-  while (n <= 99)
+while (n <= 99)
+{
+
+i = n;
+while(i < 99)
   {
-
-      i = n;
-      while(i < 99)
-      {
 	  if (1 / 10 % 10 > 1 % 10)
 	  {
 	      break;
