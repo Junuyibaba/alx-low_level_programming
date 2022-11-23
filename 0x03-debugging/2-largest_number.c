@@ -42,5 +42,4 @@ largest = c;
 }
 
 return (largest);
-
 }
